@@ -9,7 +9,7 @@ The project was made in four big stages.
 - Github [upload](https://github.com/martinarielriveros/PI_MLops) and [Render](https://render.com) deploy
 - Machine Learning models - Render deploy
 
-I'll go briefly on each to highlight some issues i found. For exact step by step you can go to [this repository](https://github.com/martinarielriveros/PI_MLops).
+I'll go briefly on each to highlight some issues i found. For exact deploy files you can go to [this repository](https://github.com/martinarielriveros/TestDeploy).
 
 # ETL/EDA
 
