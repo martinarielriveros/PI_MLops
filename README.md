@@ -6,7 +6,7 @@ The project was made in four big stages.
 
 - The ETL/EDA of data
 - Functions programmig
-- Github [upload](https://github.com/martinarielriveros/PI_MLops) and [Render](https://render.com) deploy
+- Github upload and [Render](https://render.com) deploy
 - Machine Learning models - Render deploy
 
 I'll go briefly on each to highlight some issues i found. For exact deploy files you can go to [this repository](https://github.com/martinarielriveros/apitest).
@@ -134,6 +134,8 @@ The response is like:
 
 You can check [this jupiter notebook](https://github.com/martinarielriveros/PI_MLops/WIP/recommendfunc2.ipynb) for a step-by-step output with comments.
 
+
+### For a Short video you can play:
 
 ### Author:
 
