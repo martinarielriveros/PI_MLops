@@ -118,7 +118,7 @@ The response is like:
     <img src=images/ServerResponseML1.png width=80%>
 </p>
 
-You can check [this jupiter notebook](https://github.com/martinarielriveros/PI_MLops/WIP/recommedFunc1.ipynb) for a step-by-step output with comments.
+You can check [this jupiter notebook](https://github.com/martinarielriveros/PI_MLops/blob/main/WIP/recommedFunc1.ipynb) for a step-by-step output with comments.
 
 - Second recommendation consists of a *5-item-game-set* a particular user sent by **`/user-id`** param  woud like:
 
@@ -130,7 +130,7 @@ The response is like:
     <img src=images/ServerResponseML2.png width=80%>
 </p>
 
-You can check [this jupiter notebook](https://github.com/martinarielriveros/PI_MLops/WIP/recommendfunc2.ipynb) for a step-by-step output with comments.
+You can check [this jupiter notebook](https://github.com/martinarielriveros/PI_MLops/blob/main/WIP/recommendFunc2.ipynb) for a step-by-step output with comments.
 
 
 ### For a Short video you can play:
