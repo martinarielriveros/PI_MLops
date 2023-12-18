@@ -1,12 +1,18 @@
+<style>
+  .markdown-body a {
+    text-decoration: none;
+  }
+</style>
+
 # Individual Project 1 - ML_Ops
 
-What follows are the results for [Henry's](https://soyhenry.com) Proyecto Individual N1. Please go [here](https://github.com/soyHenry/PI_ML_OPS/tree/PT) to check for requirements and understand the main goal to achieve.
+What follows are the results for [***Henry's***](https://soyhenry.com) Proyecto Individual N1. Please go [here](https://github.com/soyHenry/PI_ML_OPS/tree/PT) to check for requirements and understand the main goal to achieve.
 
 The project was made in four big stages.
 
 - The ETL/EDA of data
 - Functions programmig
-- Github upload and [Render](https://render.com) deploy
+- Github upload and [***Render***](https://render.com) deploy
 - Machine Learning models - Render deploy
 
 I'll go briefly on each to highlight some issues i found. For exact deploy files you can go to [this repository](https://github.com/martinarielriveros/apitest).
@@ -34,9 +40,9 @@ We also stored some [*light-data*](https://github.com/martinarielriveros/PI_MLop
 
 # Functions programmig
 
-We were asked to develop 5 functions to be exectuded via API. The recommended web framework for building the API was [FastAPI](https://fastapi.tiangolo.com/), and i followed the suggestion.
+We were asked to develop 5 functions to be exectuded via API. The recommended web framework for building the API was [***FastAPI***](https://fastapi.tiangolo.com/), and i followed the suggestion.
 
-As you can see [here](https://github.com/martinarielriveros/apitest/blob/main/main.py), functions are fairly straight, but an issue araised regarding the size of the dataset needed to run one particular function. To run the function defined as **`def UserForGenre(genre:str):`**, the **`.csv`** file that was needed to query the info was more than 1.1 Gb, so there was no chance to upload to [GitHub](https://github.com/martinarielriveros/PI_MLops) or deploy on [Render](https://render.com).
+As you can see [here](https://github.com/martinarielriveros/apitest/blob/main/main.py), functions are fairly straight, but an issue araised regarding the size of the dataset needed to run one particular function. To run the function defined as **`def UserForGenre(genre:str):`**, the **`.csv`** file that was needed to query the info was more than 1.1 **Gb**, so there was no chance to upload to ***GitHub*** or deploy on [***Render***](https://render.com).
 
 The solution found was:
 
