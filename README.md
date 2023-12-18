@@ -1,6 +1,6 @@
 # Individual Project 1 - ML_Ops
 
-What follows are the results for [***Henry's***](https://<i></i>soyhenry.com) Proyecto Individual N1. Please go [here](https://<i></i>github.com/soyHenry/PI_ML_OPS/tree/PT) to check for requirements and understand the main goal to achieve.
+What follows are the results for [***Henry's***](https://soyhenry.com) Proyecto Individual N1. Please go [here](https://github.com/soyHenry/PI_ML_OPS/tree/PT) to check for requirements and understand the main goal to achieve.
 
 The project was made in four big stages.
 
@@ -99,7 +99,7 @@ Finally, the **service is live**:
 
 # Machine Learning models - Render deploy
 
-We were asked to develop 2 ML recommendation algorithms to be exectuded via API. The recommended algorithm was **cosine similarity**, i also followed the suggestion. Endpoints are:
+We were asked to develop 2 ML recommendation algorithms to be exectuded via API. The recommended algorithm was **cosine similarity**, i also followed the suggestion.
 
 You can also, as before, test all endpoints [here](https://test-deploy-kvdi.onrender.com/docs)
 
