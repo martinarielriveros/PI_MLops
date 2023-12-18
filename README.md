@@ -134,9 +134,9 @@ You can check [this jupiter notebook](https://github.com/martinarielriveros/PI_M
 
 
 <p align="center">
-  <a href="https://www.loom.com/share/60619790f848491cb4eba009fda2a9c5?sid=1c9efd93-32bc-48a1-8f11-0a41a5192428">
-    Your Link Text Here
-  </a>
+  <video width="640" height="360" controls>
+    <source src="https://www.loom.com/share/60619790f848491cb4eba009fda2a9c5?sid=1c9efd93-32bc-48a1-8f11-0a41a5192428" type="video/mp4">
+  </video>
 </p>
 
 ### Author:
