@@ -6,7 +6,7 @@
 
 # Individual Project 1 - ML_Ops
 
-What follows are the results for [***Henry's***](https://soyhenry.com) Proyecto Individual N1. Please go [here](https://github.com/soyHenry/PI_ML_OPS/tree/PT) to check for requirements and understand the main goal to achieve.
+What follows are the results for [***Henry's***](https://soyhenry.com) Proyecto Individual N1. Please go [here](https://<span></span>github.com/soyHenry/PI_ML_OPS/tree/PT) to check for requirements and understand the main goal to achieve.
 
 The project was made in four big stages.
 
@@ -52,8 +52,6 @@ The solution found was:
 The drawback to the **`.parquet`** compression is that when that particular request is sent, the server response can take up to 15 seconds. We can discuss if this is the correct approach, but i found no other solution **with no info loss** . So be aware, **wait a little bit on this one**.
 
 The endpoints are gatherd up here: https://test-deploy-kvdi.onrender.com/docs
-
-
 
 <p align="center">
     <img src=images/Endpoints1.png width=50%>
