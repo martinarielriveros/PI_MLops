@@ -133,7 +133,11 @@ The response is like:
 You can check [this jupiter notebook](https://github.com/martinarielriveros/PI_MLops/blob/main/WIP/recommendFunc2.ipynb) for a step-by-step output with comments.
 
 
-![video](https://www.loom.com/share/60619790f848491cb4eba009fda2a9c5?sid=1c9efd93-32bc-48a1-8f11-0a41a5192428)
+<p align="center">
+  <a href="https://www.loom.com/share/60619790f848491cb4eba009fda2a9c5?sid=1c9efd93-32bc-48a1-8f11-0a41a5192428">
+    Your Link Text Here
+  </a>
+</p>
 
 ### Author:
 
