@@ -130,14 +130,13 @@ The response is like:
     <img src=images/ServerResponseML2.png width=80%>
 </p>
 
-You can check [this jupiter notebook](<!---->https://github.com/martinarielriveros/PI_MLops/blob/main/WIP/recommendFunc2.ipynb) for a step-by-step output with comments.
+You can check [this jupiter notebook](https://github.com/martinarielriveros/PI_MLops/blob/main/WIP/recommendFunc2.ipynb) for a step-by-step output with comments.
 
 
-### For a Short video you can play:
+### For a Short explanatory video go:
 
 ### Author:
 
-- Martin Riveros
-- martin.riveros@hotmail.com
-- +54 9 342 6142160
-- linkedin/martinarielriveros
+- **martin**.**riveros**@hotmail.com
+- +54 9 **342 6142160**
+- linkedin: **martinarielriveros**
